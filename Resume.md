@@ -2,8 +2,9 @@
 개인 이력사항
 ---
 이름 : 송시호   
-이메일 : wwwk25@naver.com
-github address: [tlgh0623]:https://github.com/tlgh0623
+이메일 : wwwk25@naver.com   
+github address: [tlgh0623][github]
+
 ---
 학력사항 
 |재학기간|학교명 및 전공|소재지|
@@ -17,3 +18,4 @@ github address: [tlgh0623]:https://github.com/tlgh0623
 |2013. 08|정보처리기능사||한국기술자격검정원|
 |2015. 07|운전면허증|2종보통||
 
+[github]:https://github.com/tlgh0623
