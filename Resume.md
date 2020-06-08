@@ -1,9 +1,9 @@
 # 이력서
 개인 이력사항
-
 ---
 이름 : 송시호   
 이메일 : wwwk25@naver.com
+github address: [tlgh0623]:https://github.com/tlgh0623
 ---
 학력사항 
 |재학기간|학교명 및 전공|소재지|
