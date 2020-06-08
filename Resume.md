@@ -1,7 +1,7 @@
 # 이력서
 개인 이력사항
 ---
-이름 : 송시호   
+이름 : 송시호   영문 : Song Si Ho
 이메일 : wwwk25@naver.com   
 github address: [tlgh0623][github]
 
